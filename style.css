@@ -569,12 +569,12 @@ body{
     text-decoration: none;
 }
 
-.resume-link:hover {
+/* .resume-link:hover {
     background-color: #2b4162;
     background-image: linear-gradient(45deg, #2b4162 0%, #12100e 74%);
     box-shadow: 10px 10px 25px 0 #276957;
     transform: scale(1.1);
-}
+} */
 
 .contact-tab{
     cursor: none;
