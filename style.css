@@ -222,7 +222,7 @@ body{
 }
 
 .landing-image {
-    -webkit-mask-image: url(/images/cowboy.svg);
+    -webkit-mask-image: url(./images/cowboy.svg);
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
     -webkit-mask-position: center; 
@@ -352,7 +352,7 @@ body{
 /* changing svg mask for each page */
 
 .area.skills .image-side .landing-image {
-    -webkit-mask-image: url(/images/gunsblazing.svg);
+    -webkit-mask-image: url(./images/gunsblazing.svg);
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
     -webkit-mask-position: center; 
@@ -360,21 +360,21 @@ body{
 
 
 .area.projects .image-side .landing-image {
-    -webkit-mask-image: url(/images/cog.svg);
+    -webkit-mask-image: url(./images/cog.svg);
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
     -webkit-mask-position: center; 
 }
 
 .area.resume .image-side .landing-image {
-    -webkit-mask-image: url(/images/suit.svg);
+    -webkit-mask-image: url(./images/suit.svg);
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
     -webkit-mask-position: center; 
 }
 
 .area.contacts .image-side .landing-image {
-    -webkit-mask-image: url(/images/gunsblazing.svg);
+    -webkit-mask-image: url(./images/gunsblazing.svg);
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
     -webkit-mask-position: center; 
