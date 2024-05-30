@@ -351,15 +351,15 @@ body{
 
 /* changing svg mask for each page */
 
-.area.skills .image-side .landing-image {
+/* .area.skills .image-side .landing-image {
     -webkit-mask-image: url(./images/gunsblazing.svg);
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
     -webkit-mask-position: center; 
-}
+} */
 
 
-.area.projects .image-side .landing-image {
+/* .area.projects .image-side .landing-image {
     -webkit-mask-image: url(./images/cog.svg);
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
@@ -378,7 +378,7 @@ body{
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
     -webkit-mask-position: center; 
-}
+} */
 
 .projects-container {
     display: flex;
