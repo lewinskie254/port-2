@@ -374,7 +374,7 @@ body{
 }
 
 .area.contacts .image-side .landing-image {
-    -webkit-mask-image: url(/images/gunsblazing.svg);
+    -webkit-mask-image: url(./images/gunsblazing.svg);
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
     -webkit-mask-position: center; 
