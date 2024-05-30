@@ -221,13 +221,13 @@ body{
     max-height: 100%;
 }
 
-.landing-image {
+/* .landing-image {
     -webkit-mask-image: url(./images/cowboy.svg);
     -webkit-mask-size: cover;  
     -webkit-mask-repeat: no-repeat; 
     -webkit-mask-position: center; 
     transition: flex .5s ease-in-out;
-}
+} */
 
 .xl-text {
     font-size: 3.5rem;
